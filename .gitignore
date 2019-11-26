@@ -3,6 +3,7 @@
 *.obj
 *.xuv
 *.log
+*.elf
 apps/applications/sink/config_definition.c
 apps/applications/sink/config_definition.gz
 apps/applications/sink/config_definition.h
