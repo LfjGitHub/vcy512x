@@ -287,9 +287,18 @@ audio/kalimba/kymera/tools/KCSMaker/out/stre_rom_v02_release/support_lib/cbops/d
 audio/kalimba/kymera/tools/KCSMaker/out/stre_rom_v02_release/support_lib/op_data_access/depend/sedpHfGuX
 audio/kalimba/kymera/tools/KCSMaker/out/stre_rom_v02_release/support_lib/stream/depend/sedN35v3r	
 
-apps/applications/sink/qcc512x_qcc302x/common/build_id_str.c		
 audio/kalimba/kymera/tools/KCSMaker/out/stre_rom_v02_release/capabilities/cvc_send/debugbin/libcvc_send.a		
 audio/kalimba/kymera/tools/KCSMaker/out/stre_rom_v02_release/support_lib/cbops/debugbin/libcbops.a	  
 audio/kalimba/kymera/tools/KCSMaker/out/stre_rom_v02_release/support_lib/op_data_access/debugbin/libop_data_access.a
 audio/kalimba/kymera/tools/KCSMaker/out/stre_rom_v02_release/support_lib/stream/debugbin/libstream.a
-apps/applications/sink/config_build.log
+
+apps/applications/sink/qcc512x_qcc302x/common/build_id_str.c
+apps/applications/sink/qcc512x_qcc302x/common/sedOgbgIS
+audio/kalimba/kymera/tools/KCSMaker/out/stre_rom_v02_release/capabilities/cvc_send/debugbin/
+audio/kalimba/kymera/tools/KCSMaker/out/stre_rom_v02_release/capabilities/cvc_send/depend/
+audio/kalimba/kymera/tools/KCSMaker/out/stre_rom_v02_release/download/depend/
+audio/kalimba/kymera/tools/KCSMaker/out/stre_rom_v02_release/kmap_tmp/
+audio/kalimba/kymera/tools/KCSMaker/out/stre_rom_v02_release/support_lib/cbops/debugbin/
+audio/kalimba/kymera/tools/KCSMaker/out/stre_rom_v02_release/support_lib/cbops/depend/
+audio/kalimba/kymera/tools/KCSMaker/out/stre_rom_v02_release/support_lib/op_data_access/depend/
+audio/kalimba/kymera/tools/KCSMaker/out/stre_rom_v02_release/support_lib/stream/depend/
